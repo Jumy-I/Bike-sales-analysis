@@ -1,5 +1,8 @@
 # Bike-sales-analysis
 Excel dashboard project for bike sales data analysis
+<img width="1366" height="191" alt="Image" src="https://github.com/user-attachments/assets/92be5864-4e64-402f-a66a-1ecb7d8cad98" />
+
+<img width="1236" height="510" alt="Image" src="https://github.com/user-attachments/assets/2e26821a-1653-443e-9247-e91dc7a4b347" />
 
 # 🚲 Bike Sales Analysis Report
 By: Olajumoke Ibiwumi Ajani
