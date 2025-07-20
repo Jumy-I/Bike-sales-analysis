@@ -1,3 +1,4 @@
+https://github.com/Jumy-I/Bike-sales-analysis/blob/main/kpi.png?raw=true
 
 # Bike-sales-analysis
 Excel dashboard project for bike sales data analysis
