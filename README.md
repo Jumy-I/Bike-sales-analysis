@@ -1,9 +1,7 @@
-https://github.com/Jumy-I/Bike-sales-analysis/blob/main/kpi.png?raw=true
-
 # Bike-sales-analysis
 Excel dashboard project for bike sales data analysis
 
-🚲 Bike Sales Analysis Report
+# 🚲 Bike Sales Analysis Report
 By: Olajumoke Ibiwumi Ajani
 Tool Used: Microsoft Excel
 Project Type: Data Visualization & KPI Dashboard
