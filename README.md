@@ -1,4 +1,3 @@
-![Bike Dashboar] (https://raw.githubusercontent.com/Jumy-I/Bike-sales-analysis/main/2.png)
 # Bike-sales-analysis
 Excel dashboard project for bike sales data analysis
 
